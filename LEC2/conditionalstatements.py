@@ -6,11 +6,11 @@
 # else:
 #     print('You can not vote')
 
-age=19
-if(age>=18):
-    if(age>=80):
-        print("Cannot drive because age more")
-    else:
-        print("Can drive")
-else:
-    print('Can not drive age is less')
+# age=19
+# if(age>=18):
+#     if(age>=80):
+#         print("Cannot drive because age more")
+#     else:
+#         print("Can drive")
+# else:
+#     print('Can not drive age is less')
